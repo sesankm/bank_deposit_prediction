@@ -11,7 +11,7 @@
 ## EDA
 * whether or not individuals previously made a deposit and the individual's occupation affected the outcome the most
   * people who previously made a deposit were more likely to make another deposit
-  * retired, self-employed or people who work in mangement were more likely to make a deposit
+  * retired, self-employed, entrepreneurs and people who work in mangement were more likely to make a deposit
 ![Alt text](https://github.com/sesankm/bank_marketing_outcome_prediction/blob/main/plots/jobs.png)
 ![Alt text](https://github.com/sesankm/bank_marketing_outcome_prediction/blob/main/plots/poutcome.png)
 
