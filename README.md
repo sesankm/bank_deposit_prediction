@@ -1,4 +1,4 @@
-# bank_marketing_outcome
+# bank_deposit_prediction
 
 ## Overview
 * predict which individuals will make a bank deposit
